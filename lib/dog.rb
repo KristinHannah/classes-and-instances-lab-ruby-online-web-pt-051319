@@ -1,10 +1,9 @@
 class Dog 
-  def new= (dog_name)
-  end 
+
 end 
 
-Dog.new = "fido"
+fido = Dog.new
 
-Dog.new = "snoopy"
+snoopy = Dog.new
 
-Dog.new = 'lassie'
+lassie = Dog.new
